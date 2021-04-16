@@ -1,0 +1,156 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","intro"],
+    "path": "pages/intro.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "victimas_de_violencia",
+    "title": "1. Víctimas de violencias por agentes químicos en Colombia",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "victimas_de_violencia",
+        "title": "1.1 Justificación resolución 4568 de 2014",
+        "anchor": "11"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "victimas_de_violencia",
+        "title": "1.2 Conceptos básicos de violencias de género",
+        "anchor": "12"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "victimas_de_violencia",
+        "title": "1.3 Características de los ataques con agentes químicos en Colombia",
+        "anchor": "13"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "victimas_de_violencia",
+        "title": "1.4 Características de los ataques con ácidos, álcalis o sustancias similares o corrosivas en Colombia",
+        "anchor": "14"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "marco_normativo",
+    "title": "2. Marco normativo internacional - nacional",
+    "breadcrumb": ["Inicio","Tema 2"],
+    "path": "pages/2-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "marco_normativo",
+        "title": "2.1 Normatividad internacional",
+        "anchor": "21"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "marco_normativo",
+        "title": "2.2 Normatividad nacional: Artículo 93 de la Constitución Nacional",
+        "anchor": "22"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "marco_normativo",
+        "title": "2.3 Artículo 13 y 43 de la constitución Nacional",
+        "anchor": "23"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "marco_normativo",
+        "title": "2.4 Ley 1257 de 2008 y Ley 906 de 2004 artículo 11",
+        "anchor": "24"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "marco_normativo",
+        "title": "2.5 Ley 1639 de 2013",
+        "anchor": "25"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "marco_normativo",
+        "title": "2.6 Ley 1438 de 2011 Art. 19, 53, 54.",
+        "anchor": "26"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "marco_normativo",
+        "title": "2.7 Resolución 5521 de 2013",
+        "anchor": "27"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "marco_normativo",
+        "title": "2.8 Sentencia T-760 de 2008",
+        "anchor": "28"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "marco_normativo",
+        "title": "2.9 Resolución 4568 de 2014",
+        "anchor": "29"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "marco_normativo",
+        "title": "2.10 Circular 016 de 2014",
+        "anchor": "210"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "marco_normativo",
+        "title": "2.11 Decreto 1033 de 2014",
+        "anchor": "211"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "marco_normativo",
+        "title": "2.12 Ley 1773 de 2016",
+        "anchor": "212"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "marco_normativo",
+        "title": "2.13 Circular externa 008 de 2017",
+        "anchor": "213"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "marco_normativo",
+        "title": "2.14 Ley 1971 de 2019",
+        "anchor": "214"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "marco_normativo",
+        "title": "2.15 Responsabilidades del SGSSS para la implementación del Protocolo de atención de urgencias a víctimas de ataques con agentes químicos",
+        "anchor": "215"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "marco_normativo",
+        "title": "2.16 Derechos en salud de las víctimas con agentes químicos",
+        "anchor": "216"
+      }
+    ]
+  }
+]
